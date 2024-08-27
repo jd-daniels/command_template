@@ -62,6 +62,7 @@ public class Robot extends TimedRobot {
   @Override
   public void teleopExit() {}
 
+  // add 10
   @Override
   public void testInit() {
     CommandScheduler.getInstance().cancelAll();
