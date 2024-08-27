@@ -9,7 +9,7 @@ import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.CommandScheduler;
 
 
-// Hi robot
+// Hi robot 2
 public class Robot extends TimedRobot {
   private Command m_autonomousCommand;
 
