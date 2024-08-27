@@ -54,7 +54,6 @@ public class Robot extends TimedRobot {
     }
   }
 
-  // test 9
   @Override
   public void teleopPeriodic() {}
 
